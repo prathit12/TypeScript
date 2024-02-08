@@ -3,7 +3,8 @@
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
-
+### Run npm install 
+** to install node modules
 ### npm start
 
 Runs the app in the development mode.
